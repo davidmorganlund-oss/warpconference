@@ -7,4 +7,4 @@ Website for warpconference.org, hosted on GitHub Pages.
 
 To update the site, edit `index.html` and commit to `main`. Changes go live in a minute or two.
 
-The site is now a recap of the September 18, 2026 convening: what happened, organizers, speakers, and resources.
+The site is now a recap of the September 18, 2026 convening: what happened, organizers, speakers, and resources. Attendance: 160+.
