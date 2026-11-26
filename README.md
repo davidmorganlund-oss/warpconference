@@ -2,7 +2,8 @@
 
 Website for warpconference.org, hosted on GitHub Pages.
 
-- `index.html`: the whole site (single page, styles and images inline)
+- `index.html`: the recap page (styles and images inline)
+- `resources/index.html`: the restorative practices resource library (same styles, copied inline)
 - `CNAME`: tells GitHub Pages to serve the site at warpconference.org
 
 To update the site, edit `index.html` and commit to `main`. Changes go live in a minute or two.
